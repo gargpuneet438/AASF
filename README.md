@@ -5,3 +5,4 @@ Android: The android portion allows students to scan a QR and mark in their atte
 every hIQ, a notification will be sent to the users that allows them to send their feedback of the hIQ
 
 Hosted at: aasf.in/new_index.php
+facebook:abhigyan abhikaushlam student's forum
